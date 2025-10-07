@@ -1,0 +1,19 @@
+/* h1 {
+    color : #ff0000;
+} */
+
+body {
+    background-color: black;
+}
+/* 
+* {
+    color: pink;
+} */
+
+/* #headOne {
+    color: yellow;
+} */
+
+.myClass {
+    color: magenta;
+}
